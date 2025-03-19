@@ -1,0 +1,4 @@
+What is Strongly Connected Components (SCCs)?
+A strongly connected component of a directed graph is a maximal subgraph where every pair of vertices is mutually reachable. This means that for any two nodes A and B in this subgraph, there is a path from A to B and a path from B to A.
+Difference Between Connected and Strongly Connected Components (SCCs)
+Connectivity in a undirected graph refers to whether two vertices are reachable from each other or not. Two vertices are said to be connected if there is path between them. Meanwhile Strongly Connected is applicable only to directed graphs. A subgraph of a directed graph is considered to be an Strongly Connected Components (SCC) if and only if for every pair of vertices A and B, there exists a path from A to B and a path from B to A

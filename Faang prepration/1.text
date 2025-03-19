@@ -1,0 +1,77 @@
+Here are the key takeaways you should store and revisit regularly for your benefit:
+
+Preparation Strategy for Google & Amazon Interviews
+1. DSA & Algorithm Practice
+Grind169 & AlgoMonster:
+
+Reviewed all Grind169 solutions using AlgoMonster for consistency.
+Used a standard BFS template across problems.
+Focused on medium-level LeetCode problems, skipped most easy & hard ones.
+Practiced DFS, BFS, and Graph/Tree algorithms.
+Used ChatGPT to debug and optimize solutions.
+Time Allocation:
+
+2–3 hours on weekdays, 4–6 hours on weekends for initial prep.
+3–4 hours on weekdays, 6–8 hours on weekends for onsite prep.
+Resources Used:
+
+TUF YouTube Channel
+Two Pointers (12 videos)
+Dynamic Programming (40/57 videos)
+Graphs (20/56 videos)
+NeetCode for concise explanations
+AlgoMonster Templates for problem types
+LeetCode Hard problems: Attempted solutions, then implemented from scratch.
+2. Onsite Interview Strategy
+Goal: Solve problems within 10-20 minutes under pressure.
+
+Implementation Efficiency:
+
+Used TUF & AlgoMonster templates for structured problem-solving.
+Practiced spaced repetition—re-implemented problems instead of just reviewing.
+Focused on patterns in problems to recognize solutions faster.
+Dry Run Technique:
+
+Write test cases as comments before coding.
+Step through the code manually & note variable changes.
+Focus on edge cases (empty lists, no nodes in graphs/trees, negative inputs).
+3. LLD Preparation (Amazon)
+Common Design Patterns Used:
+Strategy & Factory Design Patterns
+Observer & Singleton Design Patterns
+Common LLD Questions:
+Design LRU/LFU Cache
+Package Delivery System, Parking Lot, Hotel Booking System, Chess Game
+Key Approach:
+Identify essential classes first.
+Use hashmaps for fast lookups, doubly linked lists for O(1) removals.
+Break down problems into modular components.
+4. Behavioral Interview (Amazon)
+Used the STAR method for structured responses.
+Prepared 5-6 strong examples covering Amazon's Leadership Principles.
+Handled negative situations (e.g., missing a deadline, resolving conflicts).
+Tech Interview Handbook Resource: Behavioral Interview Guide
+General Insights
+Google focuses on problem-solving, Amazon on system design (LLD).
+Don't memorize solutions—understand patterns & templates.
+Interview success involves luck; rejection isn’t always a reflection of skill.
+Applied to 1,700 jobs in 7 months, only got 5 interviews—resume filtering is tough.
+Referrals help, but aren’t a guarantee (4 Amazon referrals = 3 auto-rejects, 1 success).
+No LeetCode contests participated.
+No internship at FAANG but still cracked Amazon.
+Resources to Bookmark & Revisit
+AlgoMonster Templates - https://algo.monster/templates
+TUF YouTube Channel - https://youtube.com/@takeuforward
+LeetCode Amazon LLD Questions - https://leetcode.com/discuss/interview-question?query=OOD&tag=amazon
+Tech Interview Handbook (Behavioral) - https://www.techinterviewhandbook.org/behavioral-interview/
+Daily/Weekly Study Plan
+Daily: Solve 2-3 medium LeetCode problems + 30 mins of LLD prep.
+Weekly:
+Revise previously solved problems.
+Watch TUF videos at 2x speed for new concepts.
+Dry run past solutions to reinforce retention.
+Mock interview once a week to practice thinking aloud.
+Would you like a structured study tracker based on this plan? 🚀
+
+.............................................................................>LINK OF CHAT TO ChatGPT
+https://chatgpt.com/share/67c9f3fb-67c8-800c-8d2e-79f6d1ea304c

@@ -1,0 +1,4 @@
+Shortest path algortihm is used to find the min path from one nodes to another..in a graph and there are amny version of it.
+-->dijkstra's algortihm-->only positive weight
+-->bellman-ford--->negative weight also included
+-->floyd warswal--->finding shortest path between all pairs of nodes in a weight
