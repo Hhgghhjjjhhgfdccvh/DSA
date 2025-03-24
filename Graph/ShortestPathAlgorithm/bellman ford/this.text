@@ -1,0 +1,18 @@
+The Bellman-Ford Algorithm is a single-source shortest path algorithm designed to find the shortest path from a source vertex to all other vertices in a graph.
+
+✅ Handles Negative Weight Edges
+✅ Detects Negative Weight Cycles
+ 
+
+ 🔹 Algorithm Steps
+Initialization:
+
+Create a dist[] array initialized to INF for all nodes except the source, which is set to 0.
+Relaxation Process (Main Step):
+
+Repeat this for V-1 times (where V is the number of vertices):
+➡️ For each edge (u, v, w), if dist[u] + w < dist[v], update dist[v] = dist[u] + w.
+Negative Cycle Check:
+
+Perform one additional iteration over all edges.
+If any distance is still reduced, a negative weight cycle exists.

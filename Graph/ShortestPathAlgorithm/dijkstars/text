@@ -1,0 +1,31 @@
+ <!-- Dijkstra’s Algorithm with Variations
+1976. Number of Ways to Arrive at Destination (✅ Important for Counting Paths)
+
+Type: Dijkstra’s Algorithm with path counting.
+Concepts: Dynamic counting while finding shortest paths.
+1786. Number of Restricted Paths From First to Last Node (✅ Medium-Hard)
+
+Type: Reverse Dijkstra with memoization.
+Concepts: Distance array reversal, DP on graphs.
+882. Reachable Nodes In Subdivided Graph (✅ Advanced)
+
+Type: Modified Dijkstra’s to account for node subdivisions.
+Concepts: Edge splitting and weighted traversal.
+🔹 Grid-Based Dijkstra’s Algorithm
+1928. Minimum Cost to Reach Destination in Time (✅ Hard, but worth solving)
+
+Type: Dijkstra with extra conditions (time limit).
+Concepts: Multi-dimensional DP with Dijkstra.
+505. The Maze II
+
+Type: Dijkstra’s for shortest path in a maze.
+Concepts: Rolling ball mechanics with graph traversal.
+🔹 Bonus Challenges for Mastery
+499. The Maze III
+
+Type: Dijkstra’s with path reconstruction.
+Concepts: Finding paths with optimal moves.
+1368. Minimum Cost to Make at Least One Valid Path in a Grid
+
+Type: Dijkstra’s with directional movement costs.
+Concepts: Dynamic cost variation in grids. -->
